@@ -1,0 +1,11 @@
+[
+  {
+        "city": "New York",
+        "close": "16:00",
+        "country": "United States",
+        "id": "NASDAQ",
+        "name": "NASDAQ",
+        "open": "09:30",
+        "tz": "America/New_York"
+    }
+]
